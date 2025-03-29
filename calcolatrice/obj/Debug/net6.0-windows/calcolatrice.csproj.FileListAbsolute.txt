@@ -1,0 +1,16 @@
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\bin\Debug\net6.0-windows\calcolatrice.exe
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\bin\Debug\net6.0-windows\calcolatrice.deps.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\bin\Debug\net6.0-windows\calcolatrice.runtimeconfig.json
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\bin\Debug\net6.0-windows\calcolatrice.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\bin\Debug\net6.0-windows\calcolatrice.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.Form1.resources
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.csproj.GenerateResource.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.AssemblyInfoInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.AssemblyInfo.cs
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\refint\calcolatrice.dll
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.pdb
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\calcolatrice.genruntimeconfig.cache
+C:\Users\paolucci.sara\Documents\Visual Studio 2022\calcolatrice\calcolatrice\obj\Debug\net6.0-windows\ref\calcolatrice.dll
