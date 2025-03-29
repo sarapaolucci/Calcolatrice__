@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\calcolatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\calcolatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\calcolatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\calcolatrice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|c:\\users\\paolucci.sara\\desktop\\github\\calcolatrice__\\calcolatrice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91124A75-43A0-47B1-B5C7-BA66C8FCFE51}|calcolatrice\\calcolatrice.csproj|solutionrelative:calcolatrice\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,32 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.cs",
+              "RelativeDocumentMoniker": "calcolatrice\\Form1.cs",
+              "ToolTip": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "calcolatrice\\Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:21:18.371Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.resx",
+              "RelativeDocumentMoniker": "calcolatrice\\Form1.resx",
+              "ToolTip": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.resx",
+              "RelativeToolTip": "calcolatrice\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-29T09:20:40.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "calcolatrice",
+              "Title": "calcolatrice.csproj",
               "DocumentMoniker": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\calcolatrice.csproj",
               "RelativeDocumentMoniker": "calcolatrice\\calcolatrice.csproj",
               "ToolTip": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\calcolatrice.csproj",
@@ -39,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "calcolatrice\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Form1.Designer.cs",
               "RelativeToolTip": "calcolatrice\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T09:19:21.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\paolucci.sara\\Desktop\\GitHub\\Calcolatrice__\\calcolatrice\\Program.cs",
               "RelativeDocumentMoniker": "calcolatrice\\Program.cs",
